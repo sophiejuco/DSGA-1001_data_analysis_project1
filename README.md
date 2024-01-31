@@ -7,7 +7,7 @@ This repository contains the code notebook and data used for this project as wel
 <br>
 
 There are also a folder:<br>
-* <em>Analysis plots/</em> contains the plots used to show the results of the analysis.
+* <em>Analysis plots</em> contains the plots used to show the results of the analysis.
 <br>
 
 # Analysis Report
