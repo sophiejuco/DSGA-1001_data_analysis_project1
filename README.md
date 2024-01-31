@@ -2,7 +2,7 @@
 DSGA-1001 Data Analysis Project 1: Analysis of movie ratings data set
 <br>
 This repository contains the code notebook and data used for this project as well as the results of our analysis.
-* <em>IDS_Project1.ipynb</em> is Python notebook used.
+* <em>IDS_Project1.ipynb</em> is the Python notebook.
 * <em>movieReplicationSet.csv</em> is the movie ratings data used.
 <br>
 
